@@ -33,8 +33,6 @@ Users should be able to:
   ![Desktop View](https://github.com/Darkull/Comonent-Design-QR-Code/blob/main/img/img-showcase/desktop-preview.jpg?raw=true)
 - Mobile View
   ![Hovered View](https://github.com/Darkull/Comonent-Design-QR-Code/blob/main/img/img-showcase/mobile-design.jpg?raw=true)
-- Mobile View
-<div align="center"><img src="https://cdn.discordapp.com/attachments/1128589450692280490/1150843264589631579/mobile-design.jpg" alt="Mobile View"></div>
 
 ### Links
 
