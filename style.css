@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  font-family: "Outfit", sans-serif;
   background-color: hsl(212, 45%, 89%);
 }
 
@@ -39,3 +40,32 @@ The designs were created to the following widths:
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
  */
+
+.main-component {
+  width: 35rem;
+  margin: 10rem auto;
+  background-color: #fff;
+  border: 1rem solid #fff;
+  border-radius: 1rem;
+}
+
+.img-section img {
+  height: 33rem;
+  width: 33rem;
+  border-radius: 1rem;
+}
+
+h1 {
+  margin: 2rem 0 2rem 0;
+  font-size: 2.6rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  margin: 2rem 1rem 2rem 1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-align: center;
+}
