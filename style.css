@@ -8,6 +8,10 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
 /* # Front-end Style Guide
 
 ## Layout
