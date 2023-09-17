@@ -1,8 +1,6 @@
-# Comonent-Design-NFT-Preview-Card
+# Comonent-Design-QR-Code
 
-Comonent Design NFT Preview Card
-
-# Frontend Mentor - NFT preview card component solution
+Comonent Design QR Code
 
 ## Table of contents
 
@@ -18,8 +16,6 @@ Comonent Design NFT Preview Card
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,19 +27,19 @@ Users should be able to:
 
 ### Screenshot
 
-- Comonent Design NFT Preview Card View
-  ![Comonent Design NFT Preview Card View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264291852458/desktop-preview.jpg)
+- Comonent Design QR Code View
+  ![Comonent Design NFT Preview Card View](https://github.com/Darkull/Comonent-Design-QR-Code/blob/main/img/img-showcase/desktop-design.jpg?raw=true)
 - Desktop View
-  ![Desktop View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264019202098/desktop-design.jpg)
-- Hovered View
-  ![Hovered View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843263562043464/active-states.jpg)
+  ![Desktop View](https://github.com/Darkull/Comonent-Design-QR-Code/blob/main/img/img-showcase/desktop-preview.jpg?raw=true)
+- Mobile View
+  ![Hovered View](https://github.com/Darkull/Comonent-Design-QR-Code/blob/main/img/img-showcase/mobile-design.jpg?raw=true)
 - Mobile View
 <div align="center"><img src="https://cdn.discordapp.com/attachments/1128589450692280490/1150843264589631579/mobile-design.jpg" alt="Mobile View"></div>
 
 ### Links
 
 - Solution URL: (https://github.com/Darkull/Comonent-Design-NFT-Preview-Card?search=1)
-- Live Site URL: <a href="https://comonent-design-nft.netlify.app/" target="_blank">Live-CLICK ME</a>
+- Live Site URL: <a href="comonent-design-qr-code.netlify.app/" target="_blank">Live-CLICK ME</a>
 
 ## My process
 
@@ -64,5 +60,3 @@ Users should be able to:
 - Twitter - [@HeisDarkull](https://twitter.com/HeisDarkull)
 
 ## Acknowledgments
-
-I have to practise what I learn 10 times more.. I was taking a break from doing projects after I learned css and did a few projects with it.. but after a month or so, today, I found something so difficult which was so easy for me.. so I have to practise more.. more than I learn.. I have to code more
